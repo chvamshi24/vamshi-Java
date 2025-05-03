@@ -1,0 +1,5 @@
+# Ignore all `.class` files in any directory
+**/*.class
+
+# Ignore the `.metadata` directory
+.metadata/
