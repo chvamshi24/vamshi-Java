@@ -1,0 +1,10 @@
+package Packages;
+
+import ocean.Fish;
+import ocean.plants.Seaweed;
+
+
+public class App {
+	Fish fish = new Fish();
+	Seaweed weed = new Seaweed();
+}

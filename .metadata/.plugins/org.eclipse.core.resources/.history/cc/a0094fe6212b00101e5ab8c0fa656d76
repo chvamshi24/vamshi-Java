@@ -1,0 +1,13 @@
+package Interfaces;
+
+public class App {
+
+	public static void main(String[] args) {
+		Machine mech1 = new Machine();
+		mech1.start();
+		
+//		Person.person1 = new Person("Bob");
+		
+	}
+
+}

@@ -1,0 +1,9 @@
+package Packages;
+
+import ocean.*;
+
+
+public class App {
+	Fish fish = new Fish();
+	Seaweed weed = new Seaweed();
+}

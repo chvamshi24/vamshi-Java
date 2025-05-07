@@ -1,0 +1,13 @@
+
+public class Plant {
+	// Bad practice
+	public String name;
+	
+	//Aceptable practice --- it's final
+	public final static int ID = 6;
+	
+	public Plant() {
+		this.name = "Freedy";
+	}
+
+}

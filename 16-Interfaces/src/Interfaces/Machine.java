@@ -1,0 +1,15 @@
+package Interfaces;
+
+public class Machine implements Info{
+	
+	private int id = 4;
+	
+	
+	public void start() {
+		System.out.println("Machine started");
+	}
+
+	public void showInfo() {
+		System.out.println("Machine Id: " + id);
+	}
+}

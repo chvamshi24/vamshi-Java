@@ -1,0 +1,20 @@
+package ConstructorEx;
+
+class Machine {
+	public Machine() {
+		System.out.println("Constructor running!");
+		
+		name = "vamshi";
+	}
+}
+
+public class ConstructorEx {
+
+	public static void main(String[] args) {
+		Machine machine1 = new Machine();
+		
+		new Machine();
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;MethoString&apos; to &apos;MethodString&apos;&#x0D;&#x0A;- Original project: &apos;10-Classes&amp;Objects&apos;&#x0D;&#x0A;- Original element: &apos;10-Classes&amp;Objects/src/MethoString&apos;&#x0D;&#x0A;- Renamed element: &apos;10-Classes&amp;Objects/src/MethodString&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;MethoString&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;MethoString" name="MethodString" qualified="false" references="true" stamp="1746200111146" textual="false" version="1.0"/>
+</session>
