@@ -11,7 +11,7 @@ public class Plant {
 	
 	protected String size;
 	
-	int height;
+	protected int height;
 	
 	public Plant() {
 		this.name = "Freedy";
