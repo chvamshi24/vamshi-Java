@@ -1,6 +1,6 @@
 package Interfaces;
 
-public class App {
+public class FileReader {
 
 	public static void main(String[] args) {
 		Machine mech1 = new Machine();

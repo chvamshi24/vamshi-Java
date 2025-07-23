@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/22-UpCastingAndDowncasting/22-UpCastingAndDowncasting.iml" filepath="$PROJECT_DIR$/22-UpCastingAndDowncasting/22-UpCastingAndDowncasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23-UsingGenerics/23-UsingGenerics.iml" filepath="$PROJECT_DIR$/23-UsingGenerics/23-UsingGenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-GenericsAndWildcards/24-GenericsAndWildcards.iml" filepath="$PROJECT_DIR$/24-GenericsAndWildcards/24-GenericsAndWildcards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25-AnnonymousClass/25-AnnonymousClass.iml" filepath="$PROJECT_DIR$/25-AnnonymousClass/25-AnnonymousClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26-ReadingfileUsingScanner/26-ReadingfileUsingScanner.iml" filepath="$PROJECT_DIR$/26-ReadingfileUsingScanner/26-ReadingfileUsingScanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27-HandlingExceptions/27-HandlingExceptions.iml" filepath="$PROJECT_DIR$/27-HandlingExceptions/27-HandlingExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28-MultipleExceptions/28-MultipleExceptions.iml" filepath="$PROJECT_DIR$/28-MultipleExceptions/28-MultipleExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29-RuntimeExceptions/29-RuntimeExceptions.iml" filepath="$PROJECT_DIR$/29-RuntimeExceptions/29-RuntimeExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30-AbstractClass/30-AbstractClass.iml" filepath="$PROJECT_DIR$/30-AbstractClass/30-AbstractClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31-ReadingFilesWithFileReader/31-ReadingFilesWithFileReader.iml" filepath="$PROJECT_DIR$/31-ReadingFilesWithFileReader/31-ReadingFilesWithFileReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32-Try-With-Resources/32-Try-With-Resources.iml" filepath="$PROJECT_DIR$/32-Try-With-Resources/32-Try-With-Resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33-CreateAndWriteTestFiles/33-CreateAndWriteTestFiles.iml" filepath="$PROJECT_DIR$/33-CreateAndWriteTestFiles/33-CreateAndWriteTestFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34-EqualsMethod/34-EqualsMethod.iml" filepath="$PROJECT_DIR$/34-EqualsMethod/34-EqualsMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryCalculus/BinaryCalculus.iml" filepath="$PROJECT_DIR$/BinaryCalculus/BinaryCalculus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vamshi-Java.iml" filepath="$PROJECT_DIR$/.idea/vamshi-Java.iml" />
+    </modules>
+  </component>
+</project>

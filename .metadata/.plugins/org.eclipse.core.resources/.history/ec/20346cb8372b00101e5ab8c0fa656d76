@@ -1,6 +1,6 @@
 import world.Plant;
 
-public class App {
+public class FileReader {
 
 	public static void main(String[] args) {
 		Plant plant = new Plant();
@@ -12,7 +12,7 @@ public class App {
 		// won't work -- type is private
 		// System.out.println(plant.type);
 		
-		// size is protected; App is not in the same package as plant
+		// size is protected; FileReader is not in the same package as plant
 		// won't work
 		//System.out.println(plant.size);
 	}

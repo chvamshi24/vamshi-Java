@@ -1,5 +1,5 @@
 
-public class App {
+public class FileReader {
 
 	public static void main(String[] args) {
 		Plant plant = new Plant();

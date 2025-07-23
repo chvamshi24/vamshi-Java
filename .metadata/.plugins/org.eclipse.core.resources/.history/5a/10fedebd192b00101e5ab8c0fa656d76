@@ -3,7 +3,7 @@ package Packages;
 import ocean.*;
 
 
-public class App {
+public class FileReader {
 	Fish fish = new Fish();
 	Seaweed weed = new Seaweed();
 }

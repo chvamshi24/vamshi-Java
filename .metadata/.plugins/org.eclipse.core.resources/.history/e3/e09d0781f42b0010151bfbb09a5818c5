@@ -1,6 +1,6 @@
 package Polymorphism;
 
-public class App {
+public class FileReader {
 	public static void main(String[] args) {
 		Plant plant1 = new Plant();
 		Tree tree = new Tree();
